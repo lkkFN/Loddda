@@ -1,11 +1,13 @@
 body {
     font-family: sans-serif;
+    background-color: #232828 ;
 }
+
 
 h1 {
     color: #33CDC7;
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 a {
@@ -22,14 +24,17 @@ footer {
 
 p {
     color: #30BFBF ;
-    margin-left: 200px;
-    font-size: 28px;
+    margin-left: 20px;
+    font-size: 20px;
 }
 
 main {
     background-color: #232828;
 }
 
+.social {
+    margin: 15px ;
+}
 
 a:hover {
     color: hotpink ;
@@ -41,16 +46,18 @@ a:focus {
     background-color: navajowhite;
 }
 
+li {
+    color: #30BFBF;
+    font-size: 30px;
+    margin-left: 20px;
+}
 
 .link-header {
     font-size: 25px;
+    margin-left: 40px;
 }
 
-.link-nav {
-    font-size: 25px;
-    margin: 15px ;
+h2 {
+    color: aqua;
 }
 
-.social {
-    margin: 15px;
-}
